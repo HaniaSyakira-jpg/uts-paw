@@ -1,10 +1,137 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
+    "judul": "Agak Laen",
+    "kategori": "Komedi",
+    "sutradara": "Muhadkly Acho",
+    "tahunRilis": 2024,
+    "rating": 7.5
+  },
+
+  {
+    "id": "2",
+    "judul": "Jumbo",
+    "kategori": "Animasi/Fantasi",
+    "sutradara": "Ryan Adriandhy",
+    "tahunRilis": 2025,
+    "rating": 7.8
+  },
+
+  {
+    "id": "3",
+    "judul": "1 Kakak 7 Ponakan",
+    "kategori": "Drama/Keluarga",
+    "sutradara": "Yandy Laurens",
+    "tahunRilis": 2024,
+    "rating": 8.0
+  },
+
+  {
+    "id": "4",
+    "judul": "Siksa Kubur",
+    "kategori": "Horor",
+    "sutradara": "Joko Anwar",
+    "tahunRilis": 2024,
+    "rating": 7.1
+  },
+
+  {
+    "id": "5",
+    "judul": "Layangan Putus",
+    "kategori": "Drama/Keluarga",
+    "sutradara": "Benni Setiawan",
+    "tahunRilis": 2021,
+    "rating": 7.8
+  },
+
+  {
+    "id": "6",
+    "judul": "Bad Guys",
+    "kategori": "Kriminal/Aksi",
+    "sutradara": "Tommy Dewo",
+    "tahunRilis": 2025,
+    "rating": 8.3
+  },
+
+  {
+    "id": "7",
+    "judul": "Imperfect The Series",
+    "kategori": "Komedi",
+    "sutradara": "Naya Anindita",
+    "tahunRilis": 2021,
+    "rating": 7.9
+  },
+
+  {
+    "id": "8",
+    "judul": "Teluh Darah",
+    "kategori": "Horor",
+    "sutradara": "Kimo Stamboel",
+    "tahunRilis": 2023,
+    "rating": 7.5
+  },
+
+  {
+    "id": "9",
+    "judul": "Gadis Kretek",
+    "kategori": "Drama/Romantis",
+    "sutradara": "Kamila Andini",
+    "tahunRilis": 2023,
+    "rating": 8.0
+  },
+
+  {
+    "id": "10",
+    "judul": "Sore: Istri Dari Masa Depan",
+    "kategori": "Fantasi/Romantis",
+    "sutradara": "Yandy Laurens",
+    "tahunRilis": 2025,
+    "rating": 7.5
+  },
+
+  {
+    "id": "11",
+    "judul": "Miracle in Cell No. 7",
+    "kategori": "Drama/Keluarga",
+    "sutradara": "Hanung Bramantyo",
+    "tahunRilis": 2022,
+    "rating": 7.6
+  },
+
+  {
+    "id": "12",
+    "judul": "Pabrik Gula",
+    "kategori": "Horor",
+    "sutradara": "Faozan Rizal",
+    "tahunRilis": 2025,
+    "rating": 7.2
+  },
+
+  {
+    "id": "13",
+    "judul": "Private Bodyguard",
+    "kategori": "Drama/Komedi",
+    "sutradara": "Asep Kusdinar",
+    "tahunRilis": 2024,
+    "rating": 7.6
+  },
+
+  {
+    "id": "14",
+    "judul": "Algojo",
+    "kategori": "Kriminal/Aksi",
+    "sutradara": "Tommy Dewo",
+    "tahunRilis": 2026,
+    "rating": 7.9
+  },
+
+  {
+    "id": "15",
+    "judul": "Gelas Kaca",
+    "kategori": "Drama/Keluarga",
+    "sutradara": "John De Rantau",
+    "tahunRilis": 2024,
+    "rating": 8.0
   }
+
 ]
