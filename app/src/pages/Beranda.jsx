@@ -18,7 +18,7 @@ export default function Beranda() {
           Ada {items.length} tugas dalam {jumlahKategori} kategori.
         </p>
       )}
-      <Link to="/koleksi">Lihat semua tugas</Link>
+      <Link to="/koleksi">Lihat semua koleksi</Link>
     </section>
   )
 }
